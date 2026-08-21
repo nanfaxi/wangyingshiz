@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanfaxi.github.io/wangyingshiz/sitemap.xml
